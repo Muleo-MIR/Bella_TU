@@ -1,7 +1,5 @@
 # Bella_TU
-TU configs for BDB
-TU configs and textures for stockalike mods, release version includes shiny BDB Atlas-Agena for now. Downloading the git includes the Titan and Centaur. If BDBNIC is installed then those colour options will be incorporated. Plan is to incorporate these into TU recolours like the Atlas.
-
+TU configs for BDB (updated to work with BDB v1.13.0)
 
 BDB Atlas - Fully recolourable liveries (and engines) and custom metallic gloss maps
 
